@@ -1,6 +1,6 @@
-# react-json-editor
+# react-formzilla
 
-#### This is a fork of *plexus-form* with the intent to keep it maintained
+#### This is a fork of [react-json-editor](http://ismaelga.github.io/react-json-editor/) with the intent to keep it up to date with latest React core updates.
 
 A dynamic form component for [React](http://facebook.github.io/react/) using a
 specification format based on [JSON-Schema](http://json-schema.org/).
@@ -13,10 +13,6 @@ https://github.com/ismaelga/react-json-editor/blob/master/demos/demo.jsx.
 react-json-editor takes a JavaScript object describing the shape of the data we want
 a user to provide - a *schema* - and automatically creates a form based on
 that schema. It also validates user inputs using the same schema.
-
-## Contributions are welcome
-
-I'm happy to accept PRs. You can pick up a TODO from https://github.com/ismaelga/react-json-editor/issues/1 if you want to help but don't know how.
 
 ## Minimal example:
 
